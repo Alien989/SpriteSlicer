@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Logo.png" alt="Sprite Slicer Logo" width="180">
+  <img src="Logo.png" alt="SpriteSlicer Logo" width="180">
 </p>
 
 <h1 align="center">🎨 SpriteSlicer</h1>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/platform-Android%20|%20iOS%20|%20Windows-blue">
+  <img src="https://img.shields.io/badge/platform-Android%20|%20Windows-blue">
   <img src="https://img.shields.io/badge/type-2D%20Tool-orange">
   <img src="https://img.shields.io/badge/license-MIT-green">
 </p>

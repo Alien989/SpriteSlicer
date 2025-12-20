@@ -50,6 +50,32 @@ Manually select and slice custom regions for non-uniform or complex sprite layou
 
 ---
 
+## 🧭 Usage / Instructions
+
+### 🖱️ Manual Selection Mode
+
+- **Right Mouse Button** — select / mark a sprite region  
+- **Left Mouse Button** — remove the selected region 
+
+### ⚙️ Automatic Slicing
+
+- Drop a full sprite sheet into the application  
+- The app automatically detects and slices individual sprites  
+- Switch to manual mode at any time to refine results  
+
+### 🖼️ Select Images → Combine
+
+- Select a folder containing individual sprites  
+- The app combines all selected sprites into a single sprite sheet  
+- Supports custom arrangement and export options  
+
+### 🧩 Summary of Workflows
+
+1. **Sprite Sheet → Single Sprites** (Automatic or Manual)  
+2. **Single Sprites → Sprite Sheet** (Select images & combine)
+
+---
+
 ## 🖥️ Supported Platforms
 
 - ✅ **Android**

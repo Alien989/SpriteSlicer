@@ -53,7 +53,6 @@ Manually select and slice custom regions for non-uniform or complex sprite layou
 ## 🖥️ Supported Platforms
 
 - ✅ **Android**
-- ✅ **iOS**
 - ✅ **Windows**
 
 ---

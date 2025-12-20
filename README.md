@@ -70,7 +70,3 @@ Manually select and slice custom regions for non-uniform or complex sprite layou
 ## 📸 Screenshots
 
 
-
-```md
-![Sprite slicing](screenshots/slicing.png)
-![Sprite combining](screenshots/combining.png)

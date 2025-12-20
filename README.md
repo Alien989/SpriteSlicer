@@ -69,4 +69,9 @@ Manually select and slice custom regions for non-uniform or complex sprite layou
 
 ## 📸 Screenshots
 
+<p align="center">
+  <img src="01.jpg" width="45%">
+  <img src="02.jpg" width="45%">
+</p>
+
 

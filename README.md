@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Sprite Slicer Logo" width="180">
+  <img src="Logo.png" alt="Sprite Slicer Logo" width="180">
 </p>
 
 <h1 align="center">🎨 SpriteSlicer</h1>

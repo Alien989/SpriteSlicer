@@ -92,6 +92,18 @@ Manually select and slice custom regions for non-uniform or complex sprite layou
 
 ---
 
+### 🎥 Instruction
+
+  <iframe
+    src="https://drive.google.com/file/d/1Lto0DHJI8MbrG2qZw5yKzouFoUIzFd8I/preview"
+    width="640"
+    height="360"
+    allow="autoplay; fullscreen; picture-in-picture"
+    frameborder="0"
+  ></iframe>
+  
+---
+
 ## 📸 Screenshots
 
 <p align="center">
